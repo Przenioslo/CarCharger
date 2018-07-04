@@ -1,0 +1,10 @@
+history
+Project Logs for*
+__Previews
+*.htm
+*.html
+*.drc
+Project Outputs*
+*.err
+*.step
+*template.PcbDoc
