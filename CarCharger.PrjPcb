@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUNVPDGF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CarCharger\Design Rule Check - CarCharger.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=name
 Value=CarCharger
