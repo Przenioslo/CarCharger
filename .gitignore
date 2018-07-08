@@ -4,7 +4,8 @@ __Previews
 *.htm
 *.html
 *.drc
-Project Outputs*
+Design Rule*
+Status*
 *.err
 *.step
 *template.PcbDoc
